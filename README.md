@@ -1,48 +1,57 @@
 # Efficient-architecture-development-for-Gaussian-Random-Variable-Based-CV-QKD-on-FPGA-
 Efficient FPGA-based architecture for Gaussian Random Variables in Continuous Variable Quantum Key Distribution (CVQKD). The design focuses on secure quantum communication with optimized resource utilization, high-speed processing, and accurate Gaussian random number generation for cryptographic applications.
-
-## Objectives
-- Design Gaussian random variable generation architecture
-- Implement CV-QKD model on FPGA
-- Reduce hardware resource consumption
-- Improve speed and efficiency
-- Enhance secure communication performance
-
+## Overview
+This project focuses on developing an efficient FPGA architecture for Gaussian Random Variable generation in Continuous Variable Quantum Key Distribution (CV-QKD) systems for secure communication.
 ## Technologies Used
 - MATLAB
 - FPGA
 - CV-QKD
-- Gaussian Random Variable Generation
-
-## Project Files
-- `QKD_simulation.m` → MATLAB simulation code
-- `schematic.png` → Hardware architecture diagram
-- `simulation.png` → Simulation output
-- `power.png` → Power analysis result
-- `Analysis.png` → Performance analysis
-- `graph1.png - graph5.png` → Result graphs
-- `application_graph1.png - application_graph5.png` → Application-related graphs
-- `gaussianwaves.png` → Gaussian wave visualization
-
-## Working Process
-1. Generate Gaussian random variables
-2. Apply them in CV-QKD communication
-3. Simulate the architecture
-4. Analyze performance metrics
-5. Compare results using graphs
-## Results
-- Optimized FPGA resource usage
-- Faster processing speed
-- Improved Gaussian distribution accuracy
-- Better security performance in communication systems
+- Gaussian Distribution
+- Hardware Optimization
+## Project Implementation
+The system generates Gaussian random variables and applies them in quantum key distribution for secure communication. The architecture is optimized for better speed, reduced power consumption, and efficient hardware utilization.
+## MATLAB Code
+![QKD_simulation.m](QKD_simulation.m.png) 
+## Result Graphs
+### Graph 1
+![Graph1](graph1.png)
+### Graph 2
+![Graph2](graph2.png)
+### Graph 3
+![Graph3](graph3.png)
+### Graph 4
+![Graph4](graph4.png)
+### Graph 5
+![Graph5](graph5.png)
+## Schematic Diagram
+![Schematic](schematic.png)
+## Simulation Output
+![Simulation](simulation.png)
+## Power Analysis
+![Power](power.png)
+## Gaussian Wave Output
+![Gaussian Wave](gaussianwaves.png)
+## Performance Analysis
+![Analysis](Analysis.png)
+## Application Graphs
+### Application Graph 1
+![App Graph1](application_graph1.png)
+### Application Graph 2
+![App Graph2](application_graph2.png)
+### Application Graph 3
+![App Graph3](application_graph3.png)
+### Application Graph 4
+![App Graph4](application_graph4.png)
+### Application Graph 5
+![App Graph5](application_graph5.png)
 ## Applications
-- Secure communication systems
-- Quantum cryptography
-- Defense communication
-- Data encryption systems
-## Future Improvements
-- Real-time hardware implementation
-- Advanced optimization techniques
-- Integration with modern communication systems
+- Quantum Cryptography  
+- Secure Communication  
+- Data Protection  
+- Defense Systems  
+## Future Scope
+- Real-time FPGA deployment  
+- Enhanced security algorithms  
+- Advanced optimization techniques  
 ## Author
-CH. Madhuri
+CH.M adhuri
