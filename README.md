@@ -10,8 +10,6 @@ This project focuses on developing an efficient FPGA architecture for Gaussian R
 - Hardware Optimization
 ## Project Implementation
 The system generates Gaussian random variables and applies them in quantum key distribution for secure communication. The architecture is optimized for better speed, reduced power consumption, and efficient hardware utilization.
-## MATLAB Code
-![QKD_simulation](QKD_simulation.m) 
 ## Result Graphs
 ### Graph 1
 ![graph1](graph1.png)
